@@ -1,0 +1,81 @@
+{
+    "waveSets": [
+        {
+            "id": "ChemistryStage1",
+            "spawnWaves": 10,
+            "randomWaves": false,
+            "waves": [
+                {
+                    "display": "Hydrogen",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "He", "Hy", "Hg", "Hd" ],
+                    "correct": [ "H" ]
+                },
+                {
+                    "display": "Helium",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "Hl", "Hm", "H", "Hn" ],
+                    "correct": [ "He" ]
+                },
+                {
+                    "display": "Carbon",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "Ca", "Cb", "Cn", "Cr" ],
+                    "correct": [ "C" ]
+                },
+                {
+                    "display": "Oxygen",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "Ox", "Oz", "Og", "On" ],
+                    "correct": [ "O" ]
+                },
+                {
+                    "display": "Nitrogen",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "Ni", "Nt", "Ne", "Ng" ],
+                    "correct": [ "N" ]
+                },
+                {
+                    "display": "Sodium",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "So", "S", "Sa", "Sm" ],
+                    "correct": [ "Na" ]
+                },
+                {
+                    "display": "Iron",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "Ir", "Io", "Feo", "Fr" ],
+                    "correct": [ "Fe" ]
+                },
+                {
+                    "display": "Gold",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "Gl", "Ag", "Go", "Gd" ],
+                    "correct": [ "Au" ]
+                },
+                {
+                    "display": "Potassium",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "Po", "P", "Pt", "Ps" ],
+                    "correct": [ "K" ]
+                },
+                {
+                    "display": "Calcium",
+                    "spawnStyle": "normal",
+                    "destroyStyle": "chainBlast",
+                    "elements": [ "Cl", "Cu", "C", "Cm" ],
+                    "correct": [ "Ca" ]
+                }
+            ]
+        }
+    ]
+}
