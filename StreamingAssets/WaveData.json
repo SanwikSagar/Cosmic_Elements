@@ -142,7 +142,7 @@
                     "display": "Sulfur",
                     "spawnStyle": "normal",
                     "destroyStyle": "chainBlast",
-                    "elements": ["S", "Su", "Sf", "Sr"],
+                    "elements": ["Sl", "Su", "Sf", "Sr"],
                     "correct": ["S"]
                 },
                 {
