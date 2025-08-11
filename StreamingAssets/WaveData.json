@@ -149,7 +149,7 @@
                     "display": "Fluorine",
                     "spawnStyle": "normal",
                     "destroyStyle": "chainBlast",
-                    "elements": ["F", "Fl", "Fe", "Fr"],
+                    "elements": ["Fu", "Fl", "Fe", "Fr"],
                     "correct": ["F"]
                 }
             ]
@@ -205,7 +205,7 @@
                     "display": "Tungsten",
                     "spawnStyle": "zig-zac",
                     "destroyStyle": "normal",
-                    "elements": ["Tn", "Tu", "Ts", "W"],
+                    "elements": ["Tn", "Tu", "Ts", "Wg"],
                     "correct": ["W"]
                 },
                 {
@@ -219,7 +219,7 @@
                     "display": "Radon",
                     "spawnStyle": "zig-zac",
                     "destroyStyle": "normal",
-                    "elements": ["Rn", "Rd", "Ro", "Ra"],
+                    "elements": ["Rg", "Rd", "Ro", "Ra"],
                     "correct": ["Rn"]
                 },
                 {
