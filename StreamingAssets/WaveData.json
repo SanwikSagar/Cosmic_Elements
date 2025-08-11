@@ -162,70 +162,70 @@
                 {
                     "display": "Platinum",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": ["Pl", "Pm", "PtO", "Pb"],
                     "correct": ["Pt"]
                 },
                 {
                     "display": "Mercury",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": ["Mc", "Me", "Ma", "Mu"],
                     "correct": ["Hg"]
                 },
                 {
                     "display": "Lead",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": ["Ld", "PbO", "Pd", "Le"],
                     "correct": ["Pb"]
                 },
                 {
                     "display": "Uranium",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": ["Ur", "Un", "Ul", "UO"],
                     "correct": ["U"]
                 },
                 {
                     "display": "Tin",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": ["Ti", "Tn", "T", "SnO"],
                     "correct": ["Sn"]
                 },
                 {
                     "display": "Antimony",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": ["At", "Am", "An", "SbO"],
                     "correct": ["Sb"]
                 },
                 {
                     "display": "Tungsten",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": ["Tn", "Tu", "Ts", "Wg"],
                     "correct": ["W"]
                 },
                 {
                     "display": "Bismuth",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": ["Bm", "Bt", "BiO", "Bu"],
                     "correct": ["Bi"]
                 },
                 {
                     "display": "Radon",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": ["Rg", "Rd", "Ro", "Ra"],
                     "correct": ["Rn"]
                 },
                 {
                     "display": "Polonium",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "normal",
+                    "destroyStyle": "chainBlast",
                     "elements": ["Pm", "Pl", "PoO", "Pu"],
                     "correct": ["Po"]
                 }
